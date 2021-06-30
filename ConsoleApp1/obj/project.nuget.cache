@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SznI6zkqa+1MUPKvfkoDs64i7lZxhRQG96vpC5DLRt7Q0XyCRDYFI7LSgn0Gw+3jyA3jrkwLe/NjJ5UUqT6VFw==",
+  "success": true,
+  "projectFilePath": "D:\\Web\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihas_Generalis\\.nuget\\packages\\barcode\\2020.12.2\\barcode.2020.12.2.nupkg.sha512",
+    "C:\\Users\\Mihas_Generalis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mihas_Generalis\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mihas_Generalis\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
